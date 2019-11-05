@@ -1,0 +1,6 @@
+framework module Pods_CryptoEthereumSwift {
+  umbrella header "Pods-CryptoEthereumSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
